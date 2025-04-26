@@ -3,3 +3,4 @@ pandas==2.1.1
 plotly==5.18.0
 numpy==1.26.0
 matplotlib==3.10.1
+Seaborn==0.13.2
